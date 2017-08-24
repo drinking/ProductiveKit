@@ -1,0 +1,11 @@
+//
+//  {{ argument.name }}ViewController.h
+//
+//  Created by {{ argument.author }} on {{ argument.date }}.
+//  Copyright (c) {{ argument.year}} {{ argument.author }}. All rights reserved.
+//
+
+
+@interface {{ argument.name }}ViewController : UIViewController
+
+@end

@@ -8,15 +8,22 @@ Here's a collection of morden tools to improve coding productivity.
 
 - Workflows Stores  [alfred workflow](http://alfredworkflow.com/) ,[Packal](http://www.packal.org/#) and [Official page](https://www.alfredapp.com/workflows/) including **Dash**, **StackOverFlow** .
 - [Workflow Searcher](https://github.com/hzlzh/Alfred-Workflows/raw/master/Downloads/Workflow-Searcher.alfredworkflow) Search workflows through API.
-- [alfred-fkill](https://github.com/SamVerschueren/alfred-fkill) Alfred 3 workflow to fabulously search and kill processes.
+- [alfred-fkill](https://github.com/SamVerschueren/alfred-fkill) Alfred 3 workflow to fabulously search and kill processes. 
 - [Colors](http://www.packal.org/workflow/colors#) Convert colors from one format to another.
 - [VPN Toggle](https://github.com/hzlzh/AlfredWorkflow.com/raw/master/Downloads/Workflows/VPN-Toggle.alfredworkflow)
 - [CDN Searcher](https://github.com/hzlzh/Alfred-Workflows/raw/master/Downloads/CDN-Searcher.alfredworkflow)
 - [Copy Path](https://github.com/hzlzh/Alfred-Workflows/raw/master/Downloads/Copy-Path.alfredworkflow)
+- iPhone device info quick lookup 
 
 ### Apps
 
 - [Go2Shell](http://www.jianshu.com/p/88c6e68645c4?utm_source=tuicool) Go2Shell opens a terminal window to the current directory in Finder.
+
+## Genenator
+
+Genenate code by stencil templates using [Sourcery](https://github.com/krzysztofzablocki/Sourcery).
+
+View [README](Genenator/README.md) in Genenator  for more info.
 
 ## iOS Development
 
