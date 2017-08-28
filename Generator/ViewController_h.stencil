@@ -5,6 +5,7 @@
 //  Copyright (c) {{ argument.year}} {{ argument.author }}. All rights reserved.
 //
 
+#import <UIKit/UIKit.h>
 
 @interface {{ argument.name }}ViewController : UIViewController
 

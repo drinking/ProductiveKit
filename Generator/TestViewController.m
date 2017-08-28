@@ -7,7 +7,7 @@
 
 #import "TestViewController.h"
 #import <DKViewModel/DKTableViewModel.h>
-#import <MJRefresh/MJRefresh.h>
+#import <LJRefresh/LJRefresh.h>
 
 @interface TestViewController () <UITableViewDelegate, UITableViewDataSource>
 @property(nonatomic, strong) UITableView *tableView;
@@ -65,12 +65,12 @@
                 break;
         }
     }];
-    self.tableView.mj_header = [MJRefreshNormalHeader headerWithRefreshingBlock:^{
-        [self.tableViewModel refresh];
-    }];
-    self.tableView.mj_footer = [MJRefreshAutoNormalFooter footerWithRefreshingBlock:^{
-        [self.tableViewModel nextPage];
-    }];
+//    self.tableView.mj_header = [MJRefreshNormalHeader headerWithRefreshingBlock:^{
+//        [self.tableViewModel refresh];
+//    }];
+//    self.tableView.mj_footer = [MJRefreshAutoNormalFooter footerWithRefreshingBlock:^{
+//        [self.tableViewModel nextPage];
+//    }];
 }
 
 - (NSInteger)tableView:(UITableView *)tableView numberOfRowsInSection:(NSInteger)section {
