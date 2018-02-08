@@ -98,3 +98,6 @@ Soulful docs for Swift & Objective-C.
 ### Alfred snippets
 
 Download [iOS.alfredsnippets](./Alfred/iOS.alfredsnippets)  and import into Alfred.
+
+### Scripts/
+- rr.sh一个阅读脚本
